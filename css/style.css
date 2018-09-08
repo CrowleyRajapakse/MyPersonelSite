@@ -1863,7 +1863,7 @@ section.parallax-section.parallax-sec-half-left .horizonral-subtitle span {
 .section-title {
 	padding: 20px 0 20px 50px;
 	margin-bottom: 50px;
-	text-align: left;
+	text-align: justify;
 }
 .section-title h2 {
 	font-size: 40px;
@@ -1915,6 +1915,7 @@ section.parallax-section.parallax-sec-half-left .section-title h2:after {
 section.parallax-section .section-title p {
 	color: rgba(255, 255, 255, 0.71);
 	max-width: 550px;
+	text-align: justify;
 }
 section .section-title p {
 	max-width: 550px;
@@ -1994,7 +1995,7 @@ section.parallax-section .section-title:before {
     font-weight: 500;
     color: #878C9F;
     font-family: 'Poppins', sans-serif;
-	text-align:left;
+	text-align:justify;
 }
 .sec-lines {
 	position: absolute;
@@ -4027,7 +4028,7 @@ section.parallax-section .section-title:before {
 	height: 2px;
 }
 .video-promo-text p {
-	text-align: left;
+	text-align: justify;
 	color: #fff;
 }
 /*------  Process / services ------------------------------------------------*/
@@ -4049,7 +4050,7 @@ section.parallax-section .section-title:before {
 }
 .process-wrap li .process-details,
 .serv-wrap .process-details {
-	text-align: left;
+	text-align: justify;
 	float: left;
 	width: 100%;
 	padding: 35px 40px 30px 40px;
